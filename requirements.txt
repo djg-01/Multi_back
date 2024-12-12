@@ -1,0 +1,11 @@
+fastapi  # Version may vary; adjust to the latest stable
+uvicorn  # For running the server
+pydantic  # FastAPI relies on Pydantic for data validation
+pyautogen~=0.2.0b1
+chromadb
+langchain-community
+flaml[automl]
+Ipython
+markdownify
+pypdf
+sentence-transformers
