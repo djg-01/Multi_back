@@ -12,4 +12,3 @@ sentence-transformers
 langchain-huggingface
 openai
 dotenv
-typing
