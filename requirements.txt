@@ -1,14 +1,14 @@
-fastapi  # Version may vary; adjust to the latest stable
-uvicorn  # For running the server
-pydantic  # FastAPI relies on Pydantic for data validation
+fastapi==0.115.5
+fastapi-cache2==0.2.2  # Version may vary; adjust to the latest stable
+uvicorn==0.32.1 # For running the server
+pydantic==2.10.2 # FastAPI relies on Pydantic for data validation
 pyautogen~=0.2.0b1
-chromadb
-langchain-community
+chromadb==0.5.20
+langchain-community==0.3.8
 flaml[automl]
 Ipython
 markdownify
 pypdf
 sentence-transformers
-langchain-huggingface
-openai
-dotenv
+langchain-huggingface==0.1.2
+openai==1.55.2
