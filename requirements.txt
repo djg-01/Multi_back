@@ -11,4 +11,4 @@ markdownify
 pypdf
 sentence-transformers
 langchain-huggingface==0.1.2
-openai==1.55.2
+openai
