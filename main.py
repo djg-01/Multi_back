@@ -158,9 +158,9 @@ Else :
 """
 
 
-df1 = os.path.join(os.path.dirname(__file__), '..', 'data', 'Events_Alarms.csv')
-df2 = os.path.join(os.path.dirname(__file__), '..', 'data', 'Threshold.csv')
-df3 = os.path.join(os.path.dirname(__file__), '..', 'data', 'Sensor_Readings.csv')
+df1 = os.path.join(os.path.dirname(__file__), '..', 'Events_Alarms.csv')
+df2 = os.path.join(os.path.dirname(__file__), '..', 'Threshold.csv')
+df3 = os.path.join(os.path.dirname(__file__), '..', 'Sensor_Readings.csv')
 maintain = os.path.join(os.path.dirname(__file__), '..', 'Maintainance_order')
 
 
