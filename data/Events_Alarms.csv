@@ -1,0 +1,16 @@
+Timestamp,Tag,Event
+04-11-2023 15:30,Dryer 2,Routine Maintenance Required
+04-11-2023 15:30,Dryer 2,Low Speed
+04-11-2023 15:30,P505,Communication Warning
+04-11-2023 15:31,P506,Routine Maintenance Required
+04-11-2023 15:31,P506,Start sequence initiated
+04-11-2023 15:31,P506,High Current warning
+04-11-2023 15:31,P509,Stop sequence initiated
+04-11-2023 15:31,P506,Start sequence initiated
+04-11-2023 15:38,M501,conveyor 1 Motor Bearing Vibration warning
+04-11-2023 15:31,M406,Routine Maintenance Required
+04-11-2023 15:31,Dryer 2,HIgh Vibration warning
+04-11-2023 15:31,Dryer 2,Routine Maintenance Required
+04-11-2023 15:39,M501,F07801 : conveyor 1 Drive : Motor overcurrent alarm
+04-11-2023 15:39,M501,conveyor 1 Drive : VFD Tripped
+04-11-2023 15:31,conveyor 1,conveyor 1 Emergency Stop Activated
